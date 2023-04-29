@@ -81,7 +81,7 @@ Descrizione: Il metodo "Numero Lettere" serve per far capire all'utente il numer
 	}
 ```
 Descrizione: Il metodo Alfabetico rileva quanti caratteri alfabetici ci sono in una stringa che è stata inserita dall'utente.
-*Se contiene solo caratteri alfanumerici
+* Se contiene solo caratteri alfanumerici
 ```
   bool Alfanumerico(string s)
 	{
